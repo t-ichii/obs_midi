@@ -1,0 +1,2 @@
+obs-ws-rc
+python-rtmidi
